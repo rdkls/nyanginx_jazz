@@ -12,7 +12,7 @@ permissions:
 env:
   AWS_ACCOUNT_ID: 747843067444
   AWS_REGION: ap-southeast-2
-  AWS_ROLE_NAME: github_actions_in_beemitpoc_repo
+  AWS_ROLE_NAME: github_actions_in_beemitpoc_jazz_repo
   ROLE_SESSION_NAME: GithubActionsInBeemitpocJazzRepo
   ROLE_DURATION_SECONDS: 900 # aws minimum = 15 mins
   DOCKER_SRC_DIR: .
