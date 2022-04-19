@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - prod
 
 permissions:
       id-token: write   # needed to call Github API to use OIDC for AWS auth
